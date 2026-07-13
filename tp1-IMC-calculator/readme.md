@@ -1,18 +1,8 @@
-# TP 1 : 
+# TP 1
 
-# 
+## Simulateur IMC
 
-# Simulateur IMC 
+![Capture](./capture1.png)
 
-
-
-
-
-
-
-!\[capture1.png](./capture1.png)
-
-
-
-!\[simulateur\_IMC.gif](./simulateur\_IMC.gif)
+![Simulation](./simulateur_IMC.gif)
 
