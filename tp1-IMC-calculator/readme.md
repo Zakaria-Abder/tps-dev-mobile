@@ -1,5 +1,18 @@
-# TP1 - IMC Calculator
+# TP 1 : 
 
-### test 
+# 
 
-![test gif](test_record.gif)
+# Simulateur IMC 
+
+
+
+
+
+
+
+!\[capture1.png](../capture1.png)
+
+
+
+!\[simulateur\_IMC.gif](../simulateur\_IMC.gif)
+
