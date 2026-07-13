@@ -10,9 +10,9 @@
 
 
 
-!\[capture1.png](../capture1.png)
+!\[capture1.png](./capture1.png)
 
 
 
-!\[simulateur\_IMC.gif](../simulateur\_IMC.gif)
+!\[simulateur\_IMC.gif](./simulateur\_IMC.gif)
 
